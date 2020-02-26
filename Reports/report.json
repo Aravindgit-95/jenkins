@@ -1,0 +1,213 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 39139214593,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should log in to the application",
+            "match": {
+              "location": "StepDefinition.user_should_log_in_to_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 171181376,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "First tag in category should be cliked",
+            "match": {
+              "location": "StepDefinition.first_tag_in_category_should_be_cliked()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "To verify the first tag in category",
+        "description": "",
+        "id": "to-validate-the-category-option-of-the-application;to-verify-the-first-tag-in-category",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12194929262,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "click the first option",
+            "match": {
+              "location": "StepDefinition.click_the_first_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 114301,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "contents of the option displayed",
+            "match": {
+              "location": "StepDefinition.contents_of_the_option_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 49621270134,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should log in to the application",
+            "match": {
+              "location": "StepDefinition.user_should_log_in_to_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 165647372,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "First tag in category should be cliked",
+            "match": {
+              "location": "StepDefinition.first_tag_in_category_should_be_cliked()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "To verify the first tag in category",
+        "description": "",
+        "id": "to-validate-the-category-option-of-the-application;to-verify-the-first-tag-in-category",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12799772798,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "clicks the second option",
+            "match": {
+              "location": "StepDefinition.clicks_the_second_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 124564,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "contents of second option displayed",
+            "match": {
+              "location": "StepDefinition.contents_of_second_option_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 23528465226,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should log in to the application",
+            "match": {
+              "location": "StepDefinition.user_should_log_in_to_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 171359591,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "First tag in category should be cliked",
+            "match": {
+              "location": "StepDefinition.first_tag_in_category_should_be_cliked()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "To verify the first tag in category",
+        "description": "",
+        "id": "to-validate-the-category-option-of-the-application;to-verify-the-first-tag-in-category",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8731840119,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "clicks the third option",
+            "match": {
+              "location": "StepDefinition.clicks_the_third_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 110101,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "contents of third option displayed",
+            "match": {
+              "location": "StepDefinition.contents_of_third_option_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To validate the category option of the application",
+    "description": "",
+    "id": "to-validate-the-category-option-of-the-application",
+    "keyword": "Feature",
+    "uri": "src/test/resources/feature files/background.feature"
+  }
+]
